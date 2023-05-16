@@ -46,3 +46,4 @@ if __name__ == '__main__':
         print("Valid UTF-8 encoding")
     else:
         print("Invalid UTF-8 encoding")
+
